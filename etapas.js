@@ -1,10 +1,10 @@
-let etappas =[
+let etapas =[
     {
         titulo: 'VEREADOR',
         numeros: 5,
         candidatos:[
             {
-                numero: 38111,
+                numero: '38111',
                 name: 'Fulano de Tal',
                 partido: 'ABC',
                 fotos:[
@@ -12,7 +12,7 @@ let etappas =[
                 ]
             },
             {
-                numero: 77222,
+                numero: '77222',
                 name: 'Beltrano da Silva',
                 partido: 'DEFG',
                 fotos:[
@@ -23,10 +23,10 @@ let etappas =[
     },
     {
         titulo: 'PREFEITO',
-        numeros: 2,
+        numeros: '2',
         candidatos:[
             {
-                numero: 99,
+                numero: '99',
                 name: 'Ciclano',
                 partido: 'ABC',
                 vice: 'Cic',
@@ -36,7 +36,7 @@ let etappas =[
                 ]
             },
             {
-                numero: 84,
+                numero: '84',
                 name: 'Zulano',
                 partido: 'QWERTY',
                 vice: 'Zul',
