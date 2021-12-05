@@ -31,7 +31,7 @@ let etapas =[
                 partido: 'ABC',
                 vice: 'Cic',
                 fotos:[
-                    {url:'BB-1.png', legenda:'Prefeito', small: true},
+                    {url:'BB-1.png', legenda:'Prefeito', small: false},
                     {url:'BB-2.png', legenda:'Vice-prefeito', small: true}
                 ]
             },
@@ -41,7 +41,7 @@ let etapas =[
                 partido: 'QWERTY',
                 vice: 'Zul',
                 fotos:[
-                    {url:'ZZ-1.png', legenda:'Prefeito', small: true},
+                    {url:'ZZ-1.png', legenda:'Prefeito', small: false},
                     {url:'ZZ-2.png', legenda:'Vice-Prefeito', small: true}
                 ]
             },
